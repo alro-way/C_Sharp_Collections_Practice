@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ALEX_and_SASHA\\07 Training\\Coding Dojo\\c#_stack\\LanguageEssentialsC#\\C_Sharp_Collections_Practice\\C_Sharp_Collections_Practice.csproj": {}
+  },
+  "projects": {
+    "D:\\ALEX_and_SASHA\\07 Training\\Coding Dojo\\c#_stack\\LanguageEssentialsC#\\C_Sharp_Collections_Practice\\C_Sharp_Collections_Practice.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ALEX_and_SASHA\\07 Training\\Coding Dojo\\c#_stack\\LanguageEssentialsC#\\C_Sharp_Collections_Practice\\C_Sharp_Collections_Practice.csproj",
+        "projectName": "C_Sharp_Collections_Practice",
+        "projectPath": "D:\\ALEX_and_SASHA\\07 Training\\Coding Dojo\\c#_stack\\LanguageEssentialsC#\\C_Sharp_Collections_Practice\\C_Sharp_Collections_Practice.csproj",
+        "packagesPath": "C:\\Users\\arbor\\.nuget\\packages\\",
+        "outputPath": "D:\\ALEX_and_SASHA\\07 Training\\Coding Dojo\\c#_stack\\LanguageEssentialsC#\\C_Sharp_Collections_Practice\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\arbor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

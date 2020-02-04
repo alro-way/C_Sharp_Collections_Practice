@@ -1,0 +1,11 @@
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\obj\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.csprojAssemblyReference.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\obj\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.csproj.CoreCompileInputs.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\obj\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.AssemblyInfoInputs.cache
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\obj\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.AssemblyInfo.cs
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\bin\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.deps.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\bin\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.runtimeconfig.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\bin\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.runtimeconfig.dev.json
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\bin\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.dll
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\bin\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.pdb
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\obj\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.dll
+D:\ALEX_and_SASHA\07 Training\Coding Dojo\c#_stack\LanguageEssentialsC#\C_Sharp_Collections_Practice\obj\Debug\netcoreapp2.2\C_Sharp_Collections_Practice.pdb
